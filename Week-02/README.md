@@ -46,7 +46,3 @@ Week-02/
 - Both Linear Regression and Random Forest achieved strong predictive performance with R² scores close to 0.99.
 - Feature importance analysis identified **Production_Units** as the most influential feature.
 - The ADF test confirmed that the target time series is stationary.
-
----
-
-**Author:** Srishti Gupta

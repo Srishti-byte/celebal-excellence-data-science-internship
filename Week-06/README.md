@@ -34,9 +34,9 @@ Dataset Details:
 
 - The denoising autoencoder successfully reconstructed clean handwritten digit images from noisy inputs.
 - The reconstructed images effectively removed most of the Gaussian noise while preserving the overall structure of the handwritten digits.
-- The training and validation loss curves showed stable convergence with no significant signs of overfitting.
-- A comparative experiment demonstrated that reducing the Gaussian noise factor from **0.3** to **0.2** improved reconstruction quality and reduced the reconstruction error.
-- The model demonstrated robust denoising performance across different noise levels.
+- The training process converged successfully, achieving a final training loss of **0.0045** and validation loss of **0.0051** for the primary experiment.
+- A comparative experiment demonstrated that reducing the Gaussian noise factor from **0.3** to **0.2** improved both reconstruction quality and reconstruction loss.
+- The model demonstrated robust denoising performance across different Gaussian noise levels.
 
 ## Technologies Used
 

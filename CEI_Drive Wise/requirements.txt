@@ -1,0 +1,42 @@
+## LangChain
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+
+# Vector Database
+chromadb
+
+# Embedding Models
+sentence-transformers
+transformers
+huggingface-hub
+torch
+torchvision
+accelerate
+
+# Large Language Models
+google-genai
+
+# Reranking
+cohere
+
+# PDF Processing
+pypdf
+
+# Environment & Configuration
+python-dotenv
+pydantic
+
+# Evaluation & HTTP
+numpy
+requests
+
+# User Interface
+streamlit
+
+# Utilities
+tqdm
